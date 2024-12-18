@@ -8,7 +8,7 @@ tags: ["hugo", "static-site", "web-development", "beginners"]
 featured_image: "/images/blog/blog-1.jpg"
 ---
 
-{{< toc >}}
+{{<toc>}}
 
 ## Introduction
 

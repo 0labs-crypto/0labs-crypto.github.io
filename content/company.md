@@ -4,7 +4,7 @@ layout: "company"
 description: "Learn about our mission, leadership team, and the investors backing our vision"
 ---
 
-{{< section-container class="bg-gradient-to-b from-blue-50 via-blue-50 to-white pt-20 pb-32" >}}
+{{<section-container class="bg-gradient-to-b from-blue-50 via-blue-50 to-white pt-20 pb-32" >}}
     <div class="text-center">
         <h1 class="text-4xl md:text-5xl font-bold mb-6">Building the Future of SaaS</h1>
         <p class="text-xl text-gray-600 mb-16">We're on a mission to revolutionize how businesses operate in the digital age</p>
@@ -15,9 +15,9 @@ description: "Learn about our mission, leadership team, and the investors backin
             </p>
         </div>
     </div>
-{{< /section-container >}}
+{{</section-container >}}
 
-{{< section-container class="py-20 bg-gray-50" >}}
+{{<section-container class="py-20 bg-gray-50" >}}
     <div class="max-w-6xl mx-auto">
         <h2 class="text-3xl font-bold text-center mb-12">Leadership Team</h2>
         <div class="grid grid-cols-1 md:grid-cols-3 gap-8">
@@ -43,7 +43,7 @@ description: "Learn about our mission, leadership team, and the investors backin
     </div>
 {{< /section-container >}}
 
-{{< section-container class="py-20" >}}
+{{<section-container class="py-20" >}}
     <div class="max-w-6xl mx-auto">
         <h2 class="text-3xl font-bold text-center mb-12">Backed by World-Class Investors</h2>
         <div class="grid grid-cols-2 md:grid-cols-4 gap-8 items-center">
@@ -55,7 +55,7 @@ description: "Learn about our mission, leadership team, and the investors backin
     </div>
 {{< /section-container >}}
 
-{{< section-container class="py-20 bg-gray-50" >}}
+{{<section-container class="py-20 bg-gray-50" >}}
     <div class="max-w-6xl mx-auto">
         <h2 class="text-3xl font-bold text-center mb-12">Company Values</h2>
         <div class="grid grid-cols-1 md:grid-cols-3 gap-8">
@@ -78,7 +78,7 @@ description: "Learn about our mission, leadership team, and the investors backin
     </div>
 {{< /section-container >}}
 
-{{< section-container class="py-20" >}}
+{{<section-container class="py-20" >}}
     <div class="max-w-6xl mx-auto">
         <div class="grid grid-cols-1 md:grid-cols-4 gap-8 text-center">
             {{< stat number="2015" label="Founded" >}}

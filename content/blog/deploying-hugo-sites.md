@@ -8,7 +8,7 @@ tags: ["hugo", "deployment", "netlify", "vercel", "github-pages"]
 featured_image: "/images/blog/blog-3.webp"
 ---
 
-{{< toc >}}
+{{<toc>}}
 
 ## Introduction
 

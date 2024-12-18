@@ -8,7 +8,7 @@ tags: ["hugo", "content-management", "organization", "workflow"]
 featured_image: "/images/blog/blog-5.jpg"
 ---
 
-{{< toc >}}
+{{<toc>}}
 
 ## Introduction
 
@@ -47,7 +47,7 @@ description: ""
 author: ""
 ---
 
-{{</* toc */>}}
+{{</*toc*/>}}
 
 ## Introduction
 

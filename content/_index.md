@@ -27,8 +27,8 @@ testimonials:
 ---
 
 {{< hero 
-    headline="Build Your SaaS Website"
-    sub_headline="Create stunning, responsive websites that load instantly. Built with Hugo and TailwindCSS for maximum performance and flexibility."
+    headline="Stripe For Crypto"
+    sub_headline="Manage Subscription for Crypto SaaS companies which should work with their existing CRM + Accounting Software. To improve customer onboarding, customer experience with payments (reduce payment related churn)"
     primary_button_text="Get Started Free"
     primary_button_url="#"
     secondary_button_text="View Demo"
@@ -42,14 +42,14 @@ testimonials:
 {{< client-logos animate="true" >}}
 
 {{< features-section 
-    title="Modern Features for Modern Websites"
-    description="Discover how our theme helps you build fast, beautiful SaaS websites with ease."
+    title="Modern Features for Modern Businesses"
+    description="Discover how Oreo can help you"
 >}}
 
 {{< feature
-    title="Lightning-Fast Performance"
+    title="Manage Subscription for Crypto SaaS companies"
     description="Leverage Hugo's blazing-fast build times and optimized output. Your website loads instantly, providing an exceptional user experience."
-    badge="Performance"
+    badge="Subscription"
     badgeColor="#2563eb"
     image="/images/feature-1.svg"
     buttonText="Learn More"
@@ -59,9 +59,9 @@ testimonials:
 >}}
 
 {{< feature
-    title="Beautiful Design System"
+    title="Crypto Accounting"
     description="Create stunning user interfaces with our comprehensive design system built on TailwindCSS. Customize everything to match your brand."
-    badge="Design"
+    badge="Accounting"
     badgeColor="#7c3aed"
     image="/images/feature-2.svg"
     buttonText="Learn More"
@@ -71,9 +71,9 @@ testimonials:
 >}}
 
 {{< feature
-    title="Developer Experience"
+    title="Smooth Crypto Payments"
     description="Enjoy a seamless development experience with hot reload, component-based architecture, and clean, maintainable code."
-    badge="Development"
+    badge="Payments"
     badgeColor="#16a34a"
     image="/images/feature-3.svg"
     buttonText="Learn More"

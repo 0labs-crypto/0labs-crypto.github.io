@@ -8,7 +8,7 @@ tags: ["hugo", "themes", "customization", "web-design"]
 featured_image: "/images/blog/blog-2.webp"
 ---
 
-{{< toc >}}
+{{<toc>}}
 
 ## Introduction
 

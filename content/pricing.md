@@ -4,7 +4,7 @@ description: "Choose the perfect plan for your needs"
 layout: "pricing"
 ---
 
-{{< pricing-table-1 >}}
+{{<pricing-table-1 >}}
 {
     "title": "Designed for business teams like yours",
     "description": "Here at Flowbite we focus on markets where technology, innovation, and capital can unlock long-term value and drive economic growth.",

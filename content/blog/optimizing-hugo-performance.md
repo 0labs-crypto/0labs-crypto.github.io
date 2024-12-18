@@ -8,7 +8,7 @@ tags: ["hugo", "optimization", "performance", "seo"]
 featured_image: "/images/blog/blog-4.jpg"
 ---
 
-{{< toc >}}
+{{<toc>}}
 
 ## Introduction
 
