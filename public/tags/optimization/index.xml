@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Optimization on 0labs</title>
-    <link>//localhost:1313/tags/optimization/</link>
+    <link>/tags/optimization/</link>
     <description>Recent content in Optimization on 0labs</description>
     <generator>Hugo</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 17 Dec 2024 19:54:39 +0530</lastBuildDate>
-    <atom:link href="//localhost:1313/tags/optimization/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 18 Dec 2024 19:23:08 +0530</lastBuildDate>
+    <atom:link href="/tags/optimization/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Optimizing Hugo Performance: Speed Up Your Site</title>
-      <link>//localhost:1313/blog/optimizing-hugo-performance/</link>
+      <link>/blog/optimizing-hugo-performance/</link>
       <pubDate>Sun, 23 Jul 2023 00:00:00 +0000</pubDate>
-      <guid>//localhost:1313/blog/optimizing-hugo-performance/</guid>
+      <guid>/blog/optimizing-hugo-performance/</guid>
       <description>Table of Contents Introduction Asset Optimization Image Optimization CSS and JavaScript Caching Strategies Content Delivery CDN Setup Edge Computing Performance Monitoring Key Metrics Advanced Optimization Techniques Resource Hints Critical CSS SEO Optimization Conclusion Resources Introduction Performance is crucial for user experience and SEO. In this guide, we&amp;rsquo;ll explore various techniques to optimize your Hugo site for maximum performance.&#xA;Asset Optimization Image Optimization Images often contribute the most to page weight.</description>
     </item>
   </channel>

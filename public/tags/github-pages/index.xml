@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Github-Pages on 0labs</title>
-    <link>//localhost:1313/tags/github-pages/</link>
+    <link>/tags/github-pages/</link>
     <description>Recent content in Github-Pages on 0labs</description>
     <generator>Hugo</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 17 Dec 2024 19:54:39 +0530</lastBuildDate>
-    <atom:link href="//localhost:1313/tags/github-pages/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 18 Dec 2024 19:23:08 +0530</lastBuildDate>
+    <atom:link href="/tags/github-pages/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Deploying Hugo Sites: A Complete Guide</title>
-      <link>//localhost:1313/blog/deploying-hugo-sites/</link>
+      <link>/blog/deploying-hugo-sites/</link>
       <pubDate>Sat, 22 Jul 2023 00:00:00 +0000</pubDate>
-      <guid>//localhost:1313/blog/deploying-hugo-sites/</guid>
+      <guid>/blog/deploying-hugo-sites/</guid>
       <description>Table of Contents Introduction Popular Deployment Platforms 1. Netlify 2. Vercel 3. GitHub Pages Deployment Best Practices Performance Considerations Security Measures Conclusion Resources Introduction Once you&amp;rsquo;ve built your Hugo site, the next step is deploying it to make it accessible to the world. This guide covers various deployment options and best practices.&#xA;Popular Deployment Platforms 1. Netlify Netlify offers a seamless deployment experience:&#xA;terminal 1 2 3 4 5 6 7 8 # Create netlify.</description>
     </item>
   </channel>
