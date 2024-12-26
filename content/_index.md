@@ -39,34 +39,34 @@ testimonials:
     gradient-angle="180"
 >}}
 
-{{< client-logos animate="true" >}}
+<!-- {{< client-logos animate="true" >}} -->
 
 {{< features-section 
     title="Modern Features for Modern Businesses"
-    description="Discover how Oreo can help you"
->}}
-
-{{< feature
-    title="Manage Subscription for Crypto SaaS companies"
-    description="Leverage Hugo's blazing-fast build times and optimized output. Your website loads instantly, providing an exceptional user experience."
-    badge="Subscription"
-    badgeColor="#2563eb"
-    image="/images/feature-1.svg"
-    buttonText="Learn More"
-    buttonLink="/features/performance/"
-    features="Sub-second page loads,Optimized assets,Minimal JavaScript,CDN-ready output"
-    imagePosition="right"
+    description="Discover how 0 Labs can help you"
 >}}
 
 {{< feature
     title="Crypto Accounting"
-    description="Create stunning user interfaces with our comprehensive design system built on TailwindCSS. Customize everything to match your brand."
+    description="Accounting gets tough when your business uses both crypto and fiat both. We make it easier, so that you can work on things that really matter!!"
     badge="Accounting"
+    badgeColor="#2563eb"
+    image="/images/feature-1.svg"
+    buttonText="Learn More"
+    buttonLink="/signin"
+    features="Match Account Numbers with Readable Receipient Names,Values in both crypto and equivalent fiat"
+    imagePosition="right"
+>}}
+
+{{< feature
+    title="Manage Subscription for Crypto SaaS companies"
+    description="Recurringly deduct money from your customers' wallet (just like a credit card)"
+    badge="Subscription"
     badgeColor="#7c3aed"
     image="/images/feature-2.svg"
     buttonText="Learn More"
-    buttonLink="/features/design-system/"
-    features="Modern UI components,Responsive design,Custom typography,Flexible layouts"
+    buttonLink="/signin"
+    features="seamless recurring payments"
     imagePosition="left"
 >}}
 
@@ -77,18 +77,18 @@ testimonials:
     badgeColor="#16a34a"
     image="/images/feature-3.svg"
     buttonText="Learn More"
-    buttonLink="/features/developer-experience/"
-    features="Component system,Easy customization,Clean code,Detailed documentation"
+    buttonLink="/signin"
+    features="payment to employees and businesses, on/off ramp"
     imagePosition="right"
 >}}
 
 {{< /features-section >}}
 
-{{< testimonials 
+<!-- {{< testimonials 
     title="Trusted by Modern Web Teams"
     description="See how teams are building better websites with our theme."
     animate="true"
     background-color="#f1f5f9"
->}}
+>}} -->
 
 {{< cta >}}
